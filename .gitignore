@@ -1,0 +1,9 @@
+#Created Thu Mar 13
+*
+!README.md
+!.gitignore
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!*/
